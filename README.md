@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toppyc4
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... myself 
 - 🌱 I’m currently learning ... Ruby on Rails, Python, C
 - 💞️ I’m looking to collaborate on ... Coding
 - 📫 How to reach me topwstp@gmail.com
