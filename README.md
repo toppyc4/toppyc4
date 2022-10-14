@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toppyc4
-- 👀 I’m interested in ... myself 
-- 🌱 I’m currently learning ... firebase
-- 💞️ I’m looking to collaborate on ... Coding
+- 👀 I’m interested in ... myself & something bigger than myself
+- 🌱 I’m currently learning ... google api
+- 💞️ I’m looking to collaborate on ... something cool
 - 📫 How to reach me topwstp@gmail.com
 
 <!---
