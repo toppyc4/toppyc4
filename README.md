@@ -1,7 +1,7 @@
 Hi 👋 My name is Suphawat W.
 ============================
 
-web developer, gamer, artist
+developer, gamer
 ----------------------------
 
 Self taught programmer, looking for job. Experienced in Typescript, React, Next.js, but also learn framer motion, python, ruby on rails.
