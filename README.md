@@ -8,8 +8,8 @@ Self taught programmer, looking for job. Experienced in Typescript, React, Next.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [topwstp@gmail.com](mailto:topwstp@gmail.com)
-* 🚀  I'm currently working on [learning chatGPT](http://www.youtube.com/watch?v=2FeymQoKvrk)
-* 🧠  I'm learning web development, but with the current trends I would says AI
+* 🚀  I'm currently working on [learningWeb3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12716s)
+* 🧠  I'm learning web3
 * 🤝  I'm open to collaborating on AI + Database stuffs, or any project relate to Neuralink
 * ⚡  doing my best
 
