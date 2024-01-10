@@ -8,9 +8,9 @@ Self taught programmer, looking for job. Experienced in Typescript, React, Next.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [topwstp@gmail.com](mailto:topwstp@gmail.com)
-* 🚀  I'm currently working on [learningWeb3](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12716s)
+* 🚀  I'm currently working on [Next.js 14]([https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=12716s](https://www.youtube.com/watch?v=d_oPnD8A-lI&list=LL&index=3&t=637s&ab_channel=CodingAddict))
 * 🧠  I'm learning web3
-* 🤝  I'm open to collaborating on AI + Database stuffs, or any project relate to Neuralink
+* 🤝  I'm open to collaborating on any project relate to AI, Database, or Neuralink.
 * ⚡  doing my best
 
 <a href="https://www.twitter.com/toppyc4" target="_blank" rel="noreferrer"><img
